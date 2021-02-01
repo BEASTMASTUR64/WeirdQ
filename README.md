@@ -27,7 +27,7 @@
 | [Convertio](convertio.co) | Du kan konvertera bilder, filmer och ljud med ett simpelt klick |
 | [Relaxing Sounds](www.giovesoft.com) | Relaxerande ljud |
 | [cats.](https://chrome.google.com/webstore/detail/cats/pdfklfdfahcjkkkogigggbfhbojcnhgb/related?hl=sv) | Olika katt-bilder |
-|
+
 
 <br>
 
@@ -43,7 +43,7 @@
 | [Pexels](www.pexels.com) | Pexel är inte bara en fri bildbank – det är dessutom en sökmotor för bilder. |
 | [EverystockPhoto](www.everystockphoto.com) | Det finns gott om upphovsrättfria bilder på sajter som Flickr och Wikimedia. | 
 |  [Google](https://www.google.com/search?q=google+pics&rlz=1C1GCEA_enFI914FI914&sxsrf=ALeKk03oQK966UoqqynJYsYdHff6RckFoQ:1612163933971&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj0mOrUksjuAhXBl4sKHauvBUIQ_AUoAXoECBEQAw&biw=1920&bih=937) | Bästa bild sök motoren. |
-|
+
 
 <br>
 
@@ -59,7 +59,7 @@
 | [PeaCOCK](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | Låter dig ändra temat på vscode |
 | [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | Previewar färgerna i css |
 | [CodeSpellChecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | Grammarly för din kod |
-|
+
 
 <br>
 
@@ -75,7 +75,7 @@
 | [Brackets](http://brackets.io/) | En modern, redigerare med öppen källkod som förstår webbdesign. |
 | [Codeshare.io](https://codeshare.io/) | En kodredigerare online för intervjuer, felsökning, undervisning och mer ... |
 | [VIM](https://vim.org/) | ... du är den typ av person som inte bara dyker in i koden utan lever och andas den. Om du har någon Linux-installation är Vim något för dig |
-| 
+
 
 <br>
 
@@ -91,7 +91,7 @@
 | [AdobeFonts](https://fonts.adobe.com/fonts) | Sök efter teckensnitt efter gjuteri, designer, fastigheter, språk, klassificeringar och mer. |
 | [1001FreeFonts](https://www.1001freefonts.com/) | 54663 teckensnitt i 26394 familjer. Ladda ner gratis teckensnitt för Windows och Mac. |
 | [FontSquirrel](https://www.fontsquirrel.com/) | Font Squirrel letar efter internet efter legitima gratis typsnitt av hög kvalitet. |
-|
+
 
 <br>
 
@@ -107,7 +107,7 @@
 | [FreeIcons](https://freeicons.io/) | Freeicons är en gratis plattform för nedladdning av vektorikoner |
 | [Freepik](https://www.freepik.com/popular-icons) | Hitta och ladda ner de mest populära gratisikonsfilerna på Freepik |
 | [StreamlineIcons](https://streamlineicons.com/) | Ladda ner 30000 gratis PNG-ikoner för webbplats, webbapp, programvara, webbdesign. |
-|
+
 
 <br>
 
@@ -123,7 +123,7 @@
 | [Videvo](https://www.videvo.net/) | En community-baserad videosida som erbjuder massor av val |
 | [Motionelements](https://bit.ly/36hl90c) | MotionElements är en online-arkivplats för nedladdning av gratis videoklipp. |
 | [FOCA](https://focastock.com/) | Gratis videoklipp och och mallar som du kan använda på din webbplats, teman, mallar, utskriftsmaterial och sociala medier. |
-|
+
 
 <br>
 
@@ -139,7 +139,7 @@
 | [FindSounds](http://www.findsounds.com/) | Har ingen egen databas men låter dig söka ljud och musik från internetet direkt |
 | [ZapsPlat](https://www.zapsplat.com/) | erbjuder gratis ljudeffektbegäran |
 | [OrangeFreeSounds](http://www.orangefreesounds.com/) | kommer med en rad kategorier från vattenljud och läskiga till gatuljud och diverse. |
-|
+
 
 <br>
 
@@ -155,7 +155,7 @@
 | [Placeit](https://placeit.net/) | Placeit infogar automatiskt en bild efter eget val i ett brett utbud av lagerfotomallar. | 
 | [UnSplash](https://unsplash.com/) | Unsplash är ett bibliotek med tusentals högupplösta fotografier. |
 | [Figma](https://www.figma.com/graphic-design-tool/) | Alla element du behöver för att skapa fantastiska logotyper, grafik på sociala medier, presentationer och mer, gratis.|
-|
+
 
 <br>
 
@@ -171,4 +171,3 @@
 | [WordPress](https://wordpress.com/create/?aff=30102&sid=EN-22121907) | WordPress ger dig allt du behöver för att starta din webbsida idag. |
 | [HostGator](https://www.hostgator.com/) | Webbhotell som skalas från lätt till expert |
 | [BigCommerce](https://www.bigcommerce.com/dm/sb-affiliate/?irgwc=1&utm_term=UTV2-60qbxyLWzVwUx0Mo3EAUkERa1X34X5t1Q0&utm_content=159259&utm_campaign=422058&utm_medium=affiliates&utm_source=ImpactRadius) | Bygg en webbsida som tillgodoser dina unika affärsbehov - med designverktyg, funktioner och support för att få dig igång. |
-|
