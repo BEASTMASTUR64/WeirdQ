@@ -1,13 +1,13 @@
 # Bord av kategorier
 - [Chrome tillägg](#Chrome-tillägg)
-- [Gratis Bilder](#Gratis_bilder)
-- [Stock Videor](#VS_Code_tillägg)
-- [Gratis kod editorer](#Gratis_kod_editorer)
+- [Gratis Bilder](#Gratis-bilder)
+- [Stock Videor](#VS-Code-tillägg)
+- [Gratis kod editorer](#Gratis-kod-editorer)
 - [Fonter](#Fonter)
 - [Ikoner](#Ikoner)
-- [Stock videor](#Stock_Videor)
+- [Stock videor](#Stock-Videor)
 - [Ljud](#Ljud)
-- [Online design verktyg](#Online_designverktyg)
+- [Online design verktyg](#Online-designverktyg)
 - [Webbsidsbyggare](#Webbsidsbyggare)
 
 
@@ -31,7 +31,7 @@
 
 <br>
 
-# Gratis_bilder
+# Gratis bilder
 
 | Link | Description |
 | --- | --- |
@@ -47,7 +47,7 @@
 
 <br>
 
-# VS_Code_tillägg
+# VS Code tillägg
 
 | Link | Description |
 | --- | --- |
@@ -63,7 +63,7 @@
 
 <br>
 
-# Gratis_kod_editorer
+# Gratis kod editorer
 
 | Link | Description |
 | --- | --- |
@@ -111,7 +111,7 @@
 
 <br>
 
-# Stock_Videor
+# Stock Videor
 
 | Link | Description |
 | --- | --- |
@@ -143,7 +143,7 @@
 
 <br>
 
-# Online_designverktyg
+# Online designverktyg
 
 | Link | Description |
 | --- | --- |
